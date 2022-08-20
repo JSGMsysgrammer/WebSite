@@ -1,0 +1,7 @@
+@font-face{
+    font-family: "Lobster_Regular";
+    src: url(../Fonts/Lobster-Regular.ttf);
+}
+h1{
+    font-family: "Lobster_Regular";
+}
